@@ -1,16 +1,24 @@
-### Hi there 👋
+<table width="100%"><tr><td width="50%" valign="top">
 
+- 🔓 [Reversing a CD key scheme to defeat a setup program](https://jsyang.ca/hacks/franklin-bookman-desktop-manager-cd-key-scheme-reversed/)
+- 📚 [Bookman Archive: an ongoing digital archival project focused on an early ebook platform](https://bookmanarchive.com)<br>![](bookmanarchive.png) 
+
+</td><td width="50%" valign="top">
+    
+- 🕹️ [Celestial Combat: a game of galactic conquest and colonization](https://jsyang.ca/celestial/) 
+- 🔓 [Reverse engineering a Guitar Hero Live Bluetooth LE controller](https://jsyang.ca/hacks/ghliveble/)
+- 🔓 [Reverse engineering a Gear VR Bluetooth controller](https://jsyang.ca/hacks/gear-vr-rev-eng/)
+
+</td></tr></table>    
+    
 <!--
-**jsyang/jsyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tools
 
-Here are some ideas to get you started:
+The best tools are the ones fit to your needs and mine vary greatly:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Full-stack Web dev mostly in the JS ecosystem
+- Sysadmin / Ops / SRE type things are done in anything from shell scripts to Ansible to Terraform
+- Embedded development in C and CPP; microcontroller stuff mostly in Arduino
+- For retrocomputing, I'm happiest in a hex editor / disassembler / decompiler
+- OpenSCAD for anything functionally 3D
 -->
