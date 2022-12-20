@@ -1,5 +1,6 @@
 <table width="100%"><tr><td width="50%" valign="top">
 
+- 🕵️ [Retro-reverse engineering: ROM dumper tool and binary analysis](https://github.com/bookmanarchive/rom-dumper)
 - 🔓 [Reversing a CD key scheme to defeat a setup program](https://jsyang.ca/hacks/franklin-bookman-desktop-manager-cd-key-scheme-reversed/)
 - 📚 [Bookman Archive: an ongoing digital archival project focused on an early ebook platform](https://bookmanarchive.com)<br>![](bookmanarchive.png) 
 
