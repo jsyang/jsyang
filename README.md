@@ -1,10 +1,10 @@
-<table width="100%"><tr><td width="50%" valign="top">
+<table width="100%"><tr><td width="33%" valign="top">![](bookmanarchive.png)</td><td width="33%" valign="top">
 
 - 🕵️ [Retro-reverse engineering: ROM dumper tool and binary analysis](https://github.com/bookmanarchive/rom-dumper)
 - 🔓 [Reversing a CD key scheme to defeat a setup program](https://jsyang.ca/hacks/franklin-bookman-desktop-manager-cd-key-scheme-reversed/)
-- 📚 [Bookman Archive: an ongoing digital archival project focused on an early ebook platform](https://bookmanarchive.com)<br>![](bookmanarchive.png) 
+- 📚 [Bookman Archive: an ongoing digital archival project focused on an early ebook platform](https://bookmanarchive.com)
 
-</td><td width="50%" valign="top">
+</td><td width="33%" valign="top">
     
 - 🕹️ [Celestial Combat: a game of galactic conquest and colonization](https://jsyang.ca/celestial/) 
 - 🔓 [Reverse engineering a Guitar Hero Live Bluetooth LE controller](https://jsyang.ca/hacks/ghliveble/)
