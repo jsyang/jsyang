@@ -1,4 +1,4 @@
-<table width="100%"><tr><td width="33%" valign="top"><img src=bookmanarchive.png></td><td width="33%" valign="top">
+<table width="100%" border=0><tr><td width="33%" valign="top"><img src=bookmanarchive.png></td><td width="33%" valign="top">
 
 - 🕵️ [Retro-reverse engineering: ROM dumper tool and binary analysis](https://github.com/bookmanarchive/rom-dumper)
 - 🔓 [Reversing a CD key scheme to defeat a setup program](https://jsyang.ca/hacks/franklin-bookman-desktop-manager-cd-key-scheme-reversed/)
